@@ -1,0 +1,13 @@
+requests
+HTMLParser
+beautifulsoup4
+lxml
+pandas
+selenium==4.4.3
+webdriver-manager
+pytesseract
+anticaptchaofficial
+gspread
+gspread-dataframe
+undetected-chromedriver==3.1.5.post4
+flask
